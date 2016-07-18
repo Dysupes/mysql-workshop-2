@@ -1,0 +1,7 @@
+SELECT * FROM Account WHERE id=1;
+
+SELECT * FROM AddressBook WHERE id=1;
+
+SELECT * FROM Entry WHERE id < 4;
+
+// Retrives the entered data

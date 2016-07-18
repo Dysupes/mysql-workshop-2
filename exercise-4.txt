@@ -1,0 +1,5 @@
+UPDATE Account SET password='george';
+
+UPDATE AdressBook SET name='Emma';
+
+UPDATE Entry SET type='home';

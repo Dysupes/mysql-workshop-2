@@ -1,0 +1,3 @@
+ TRUNCATE Entry;
+ 
+ // Removes all the inputted data.
