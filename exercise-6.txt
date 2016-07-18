@@ -1,0 +1,3 @@
+DROP TABLE Account;
+
+// Removes the table and all associated data

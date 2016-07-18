@@ -1,0 +1,5 @@
+SELECT COUNT(*) FROM Entry WHERE type!='other';
+
+SELECT COUNT(*) FROM Entry WHERE type="home" OR type="work";
+
+SELECT COUNT(*) FROM Entry WHERE subtype='phone';
