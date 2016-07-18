@@ -1,0 +1,7 @@
+CREATE DATABASE Workshop2;
+
+USE Workshop2;
+
+source data/import-table-structure.sql;
+
+// First, create a new database, transfer into the database, then import the .sql files into the database
